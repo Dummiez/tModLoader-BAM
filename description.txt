@@ -1,0 +1,29 @@
+[c/cf99ff:Basic Automated Mining] is a lightweight veinminer alternative. Does the essentials of mining ore veins and blocks.
+
+The full description can be found on the Steam workshop page.
+
+[c/f5ffc7:v1.1 (13/08/2022)]
+• Added option to include variant tiles in mining (for example, whitelisting dirt will include grass tiles as breakage).
+• Added new version notifier.
+• Minor bug fixes for multiplayer compatibility.
+[c/f5ffc7:v1.0.5 (09/08/2022)]
+• Stable release update.
+• Whitelisting now saves immediately after changes.
+• Added shortcut to allow adding tiles to whitelist using middle mouse button (scroll wheel) and right mouse button (right click).
+[c/f5ffc7:v1.0.4 (25/07/2022)]
+• Fixed an issue with modded blocks not dropping while direct tile drops are enabled.
+• Updated Chinese translations (credits to Potralia).
+[c/f5ffc7:v1.0.3 (25/07/2022)]
+• Fixed an issue with a mod error on reload.
+[c/f5ffc7:v1.0.2 ~]
+• Minor bug fixes.
+[c/f5ffc7:v1.0.1 (20/07/2022)]
+• Added direct tile drops option.
+• Added option to consume mana when auto-mining.
+• Added toggle option for auto-mine (right click).
+• Added local network authentication for server config.
+• Added custom tile whitelisting (works with modded tiles).
+• Added basic localization support (DeepL) for the available languages. If you would like to improve these, feel free to leave a comment on the Steam page.
+• Added HERO's Mod permission support.
+• Multiplayer compatibility and server-related code fixes.
+• Initial release.
