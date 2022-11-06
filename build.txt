@@ -1,7 +1,7 @@
 displayName = Basic Automated Mining
 author = Aitherix
-version = 1.1.5
+version = 1.1.6
 hideCode = true
 hideResources = true
 includeSource = false
-patchNotes = "Fixes an issue with new world creation breaking due to this mod."
+patchNotes = "Minor bug fixes with WorldGen compatibility."
