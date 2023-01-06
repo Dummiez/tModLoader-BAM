@@ -1,7 +1,7 @@
 displayName = Basic Automated Mining
 author = Aitherix
-version = 1.1.6
+version = 1.1.7
 hideCode = true
 hideResources = true
 includeSource = false
-patchNotes = "Minor bug fixes with WorldGen compatibility."
+patchNotes = "Fixes an issue with certain modded tiles not being whitelistable."

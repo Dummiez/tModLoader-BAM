@@ -1,6 +1,8 @@
 [c/cf99ff:Basic Automated Mining] is a lightweight veinminer alternative. Does the essentials of mining ore veins and blocks.
 
 The full description can be found on the Steam workshop page.
+[c/f5ffc7:v1.1.7 (05/01/2023)]
+• Fixes an issue with certain modded tiles not being whitelistable.
 [c/f5ffc7:v1.1.6 (06/11/2022)]
 • Internal WorldGen compatibility fixes.
 [c/f5ffc7:v1.1.5 (18/08/2022)]
