@@ -1,6 +1,15 @@
 [c/cf99ff:Basic Automated Mining] is a lightweight veinminer alternative. Does the essentials of mining ore veins and blocks.
 
 The full description can be found on the Steam workshop page.
+[c/f5ffc7:v1.2.1 (07/02/2024)]
+• Compatibility update to v2023.12.
+• Auto-toggle mining is now disabled by default.
+• Fixes an issue with mod incompatibility (Fargos).
+• Fixes an issue with the github version checker.
+[c/f5ffc7:v1.2.0 (26/05/2023)]
+• Localization update fixes.
+[c/f5ffc7:v1.1.9 (13/05/2023)]
+• Compatibility update to v1.4.4.
 [c/f5ffc7:v1.1.8 (09/01/2023)]
 • Fixes an issue with the tile whitelist not saving properly.
 [c/f5ffc7:v1.1.7 (05/01/2023)]
@@ -17,8 +26,8 @@ The full description can be found on the Steam workshop page.
 • Added option to include variant tiles in mining (for example, whitelisting dirt will include grass tiles as breakage).
 • Added new version notifier.
 • Updated chat commands:
-➤ '/bam.toggle [off/on]' - Toggle your client auto-mining
-➤ '/bam.tile [TileID]' - Adds the specified TileID to the whitelist
+➤ /bam.toggle [off/on] - Toggle your client auto-mining
+➤ /bam.tile [TileID] - Adds the specified TileID to the whitelist
 • Minor bug fixes for multiplayer compatibility.
 • Fixed an issue with whitelisting not working properly.
 [c/f5ffc7:v1.0.5 (09/08/2022)]

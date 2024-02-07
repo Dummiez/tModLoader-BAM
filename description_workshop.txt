@@ -1,19 +1,19 @@
-[b]Basic Automated Mining (BAM) is a simple, lightweight veinminer [i]alternative[/i].[/b]
+[b]Basic Automated Mining (BAM) is a simple, lightweight veinminer alternative.[/b]
 
 [b]Comes with:[/b]
-• No hotkeys, just mine ores to use
+• No hotkeys, just mine ores to vein mine
 • 50% smaller packet size
 • No complex tile scanning
 • Dynamic tile breaking limits
-• Less than 300 lines of code[i]*[/i]
+• Very lightweight
 
 [b]Additional features:[/b]
 • Fully multiplayer compatible
-• NetMessage not required
-• Simple whitelist w/ Mod support
 • Right-click toggle auto mining
+• Simple whitelist w/ Modded tile support
 • Middle-click (scroll wheel) + Right-click easy whitelisting
-• Localized settings & messages
+• Localized translation settings & messages
 • Extra config settings to play with
 
 [i]Originally pieced together in 2 hours (5+ with multiplayer/config) using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2820025575]Pylons Prevent Evils[/url].[/i]
+For the official feature-rich version check out [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2565639705]Ore Excavator[/url] by [url=https://steamcommunity.com/id/CrazyContraption]CrazyContraption[/url].

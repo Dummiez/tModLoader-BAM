@@ -1,7 +1,7 @@
 displayName = Basic Automated Mining
 author = Aitherix
-version = 1.1.8
+version = 1.2.1
 hideCode = true
 hideResources = true
 includeSource = false
-patchNotes = "Fixes an issue with the tile whitelist not saving properly."
+patchNotes = "February 2024 Stable Update Patch."
