@@ -1,8 +1,7 @@
-displayName = Wing Slot Extra
+displayName = Basic Automated Mining
 author = Aitherix
-version = 1.4.0
-homepage = https://github.com/abluescarab/tModLoader-WingSlot
-hideCode = false
-includeSource = true
-includePDB = true
-patchNotes = "Compatibility update to tModLoader v2023.12 - Equip multiple wings & loadout wing slot support."
+version = 1.2.2
+hideCode = true
+hideResources = true
+includeSource = false
+patchNotes = "February 2024 Stable Update Patch."
