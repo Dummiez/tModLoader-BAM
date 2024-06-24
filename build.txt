@@ -1,7 +1,7 @@
 displayName = Basic Automated Mining
 author = Aitherix
-version = 1.2.3
+version = 1.2.4
 hideCode = true
 hideResources = true
 includeSource = false
-patchNotes = "June 2024 Stable Update Patch."
+patchNotes = "June 2024 Stable Update Patch (Fixes issues with ores possibly missing from whitelist)"

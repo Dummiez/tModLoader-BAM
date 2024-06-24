@@ -1,6 +1,9 @@
 [c/cf99ff:Basic Automated Mining] is a lightweight veinminer alternative. Does the essentials of mining ore veins and blocks.
 
 The full description can be found on the Steam workshop page.
+[c/f5ffc7:v1.2.4 (24/06/2024)]
+• Adjusts to maximum setting limits on the mod config.
+• Fixed an issue with default ores not appearing on the whitelist.
 [c/f5ffc7:v1.2.3 (22/06/2024)]
 • Whitelist config using ItemDefinitions migrated to TileDefinitions.
 • Fixed an issue with certain tiles not saving properly.
