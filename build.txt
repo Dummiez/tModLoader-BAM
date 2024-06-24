@@ -1,6 +1,6 @@
 displayName = Basic Automated Mining
 author = Aitherix
-version = 1.2.4
+version = 1.2.5
 hideCode = true
 hideResources = true
 includeSource = false
